@@ -144,3 +144,6 @@ Deploy the app online
 **Final Note**
 
 This project helped me understand how real-time applications are built in practice. It improved my confidence in working with React, Node.js, and Socket.IO, and gave me a clear idea of how frontend and backend work together in real-time systems.
+
+**Output**
+<img width="1891" height="885" alt="Image" src="https://github.com/user-attachments/assets/8ee4b74e-b1e2-40d6-a0da-c26267f1092b" />
